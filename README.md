@@ -1,2 +1,2 @@
 # NLP_ITI
-tasks of NLP course
+Tasks covered in the NLP course
